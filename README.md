@@ -1,6 +1,6 @@
 # PewBDie
 
-A cloth simulation based on the paper [Position Based Dynamics written by Matthias Müller et al.](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf). It is developed in CLion and rendered in Houdini. Partio and glm are used. Stretching constraint, fixed point constraint, collision constraint and bending constraint are implemented. Youtube link is [here](https://www.youtube.com/watch?v=25VKfM3vcTk
+A cloth simulation based on the paper [Position Based Dynamics written by Matthias Müller et al](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf). It is developed in CLion and rendered in Houdini. Partio and glm are used. Stretching constraint, fixed point constraint, collision constraint and bending constraint are implemented. Youtube link is [here](https://www.youtube.com/watch?v=25VKfM3vcTk
 ).
 
 ## A piece of cloth falls on a sphere
